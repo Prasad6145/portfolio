@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOI9AMkQ",
+      "name": "Capstone-project-1-Play-store-review-analysis-",
+      "createdAt": "2023-02-12T18:40:34Z",
+      "url": "https://github.com/Prasad6145/Capstone-project-1-Play-store-review-analysis-",
+      "description": null,
+      "isFork": false,
+      "languages": []
+    },
+    {
+      "id": "R_kgDOPuOGKA",
+      "name": "drone-news-ai-agent",
+      "createdAt": "2025-09-11T19:06:45Z",
+      "url": "https://github.com/Prasad6145/drone-news-ai-agent",
+      "description": null,
+      "isFork": false,
+      "languages": []
+    },
+    {
+      "id": "R_kgDOOKYyWA",
+      "name": "word-bridge",
+      "createdAt": "2025-03-18T06:00:24Z",
+      "url": "https://github.com/Prasad6145/word-bridge",
+      "description": "AI-powered Speech-to-Text, Translation, and Text-to-Speech app using Gradio, Google Translator, and gTTS",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOOnCmkg",
+      "name": "DS-Intern-Assignment-Prasad_Kshirsagar",
+      "createdAt": "2025-05-09T07:00:46Z",
+      "url": "https://github.com/Prasad6145/DS-Intern-Assignment-Prasad_Kshirsagar",
+      "description": "This repo contains a Data Science intern assignment by Mechademy to assess end-to-end ML skills. Candidates will perform EDA, feature engineering, regression modeling, and evaluation. Emphasis is on Python, Git usage, and reproducible workflows. Follow the README for guidelines.",
+      "isFork": true,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOPvWVbw",
+      "name": "portfolio",
+      "createdAt": "2025-09-13T18:57:07Z",
+      "url": "https://github.com/Prasad6145/portfolio",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOLZMqsA",
+      "name": "python",
+      "createdAt": "2024-02-28T12:11:11Z",
+      "url": "https://github.com/Prasad6145/python",
+      "description": null,
+      "isFork": false,
+      "languages": []
+    }
+  ]
+}
