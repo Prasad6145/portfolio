@@ -11,7 +11,7 @@ import Error404 from "../pages/errors/error404/Error";
 export default class Main extends Component {
   render() {
     return (
-     <BrowserRouter basename="/">
+      <HashRouter basename="/">
         <Switch>
           {/* Default route goes straight to Home */}
           <Route
@@ -55,7 +55,7 @@ export default class Main extends Component {
             render={(props) => <Error404 {...props} theme={this.props.theme} />}
           />
         </Switch>
-      </BrowserRouter>
+      </HashRouter>
     );
   }
 }
