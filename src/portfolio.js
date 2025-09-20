@@ -1,10 +1,3 @@
-/* Change this file to get your personal Porfolio */
-
-// Website related settings
-const settings = {
-  isSplash: false, // Change this to false if you don't want Splash screen.
-};
-
 //SEO Related settings
 const seo = {
   title: "Prasad's Portfolio",
@@ -700,7 +693,6 @@ const contactPageData = {
 };
 
 export {
-  settings,
   seo,
   greeting,
   socialMediaLinks,
