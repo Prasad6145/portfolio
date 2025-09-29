@@ -17,8 +17,8 @@ const greeting = {
   subTitle:
     "Data Scientist skilled in Python, R, SQL, Power BI, PySpark, SSIS, and ML/DL, with expertise in building scalable data solutions and AI-powered applications.",
   resumeLink:
-    "https://drive.google.com/drive/folders/11QVsIJrHpKUH7Qw-7L7coiyTiaFH2moI?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+    "https://drive.google.com/file/d/1chqtsmD5JIDyXP4JGFXHlOg53hMvIiE2/view?usp=sharing",
+  portfolio_repository: "https://github.com/Prasad6145/portfolio.git",
   githubProfile: "https://github.com/Prasad6145",
 };
 
